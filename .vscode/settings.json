@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/opt/anaconda3/envs/first/bin/python",
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
