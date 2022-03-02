@@ -13,4 +13,4 @@ num = []
 while(count > 0):
     num.append(int(input("계산할 숫자를 입력하세요 : ")))
     count = question()
-print(calculator(num))
+print(123)
